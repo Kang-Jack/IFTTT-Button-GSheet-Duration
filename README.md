@@ -8,5 +8,5 @@ as:
 
 ## 2) in google sheet
 
-add macro 
+add macro with googleSheetMacro.gs 
 
